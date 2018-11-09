@@ -264,8 +264,6 @@ class HomePage : ApplicationAdapter() {
                     blockRect_right = Rectangle()
                     blockRect_left1 = Rectangle()
                     blockRect_right1 = Rectangle()
-
-                    //println("amına koduğumun kotlini " + blockY[i])
                 }
             }
         else if (gameState == 2)
